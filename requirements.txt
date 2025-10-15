@@ -1,4 +1,4 @@
-reflex==0.6.8
+reflex==0.8.14.post1
 astor==0.8.1
 black==24.8.0
 dill==0.3.8
